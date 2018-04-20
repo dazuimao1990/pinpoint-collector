@@ -1,0 +1,2 @@
+# pinpoint-collector
+collector only
